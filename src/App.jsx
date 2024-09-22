@@ -1,9 +1,12 @@
-import Header from "./sections/Header.jsx";
+import Header from "./sections/Header";
+import Hero from "./sections/Hero";
+
 
 const App = () => {
   return (
     <main className="overflow-hidden">
-     <Header />
+      <Header />
+      <Hero />
     </main>
   );
 };
