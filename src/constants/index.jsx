@@ -113,8 +113,8 @@ export const plans = [
   {
     id: "0",
     title: "Core",
-    priceMonthly: 19,
-    priceYearly: 12,
+    priceMonthly: 1499,
+    priceYearly: 999,
     caption: "Best for solo creators",
     features: [
       "100MB Cloud storage",
@@ -128,8 +128,8 @@ export const plans = [
   {
     id: "1",
     title: "Overdrive",
-    priceMonthly: 79,
-    priceYearly: 59,
+    priceMonthly: 6599,
+    priceYearly: 4899,
     caption: "Most popular plan",
     features: [
       "All Starter features",
@@ -143,8 +143,8 @@ export const plans = [
   {
     id: "2",
     title: "Team",
-    priceMonthly: 39,
-    priceYearly: 29,
+    priceMonthly: 2999,
+    priceYearly: 2499,
     caption: "Exclusively for teams",
     features: [
       "All Overdrive features",
